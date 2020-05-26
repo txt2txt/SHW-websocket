@@ -1,5 +1,5 @@
 
-## Heroku 平台上
+## Heroku 平台上 版本需要更新
 
 ### 1.准备工作
 * [Heroku](https://signup.heroku.com/) 注册
